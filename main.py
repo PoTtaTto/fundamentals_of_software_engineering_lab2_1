@@ -1,2 +1,4 @@
+from user import ask_user
+
 if __name__ == '__main__':
-    pass
+    ask_user()
